@@ -14,4 +14,4 @@ age*100
 FROM parks_and_recreation.employee_demographics;
 
 SELECT DISTINCT gender
-FROM parks_and_recreation.employee_demographics;
+FROM employee_demographics;
